@@ -44,8 +44,8 @@ MODEX/
 
 
 ### 🔐 Authentication
-![Login](https://via.placeholder.com/800x400.png?text=Login+Page)
-![Register](https://via.placeholder.com/800x400.png?text=Register+Page)
+<img width="1884" height="977" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/4b21f465-f4b5-437b-9219-753b1419e604" />
+<img width="1881" height="981" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/165874ee-669e-49c0-b61a-45556cd31849" />
 
 ### 🛒 Shopping Cart
 ![Cart](https://via.placeholder.com/800x400.png?text=Shopping+Cart)
