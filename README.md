@@ -38,7 +38,10 @@ MODEX/
 
 ## 📸 Screenshots
 ### 🏠 Homepage
-![Homepage](https://via.placeholder.com/800x400.png?text=Homepage)
+<img width="1902" height="992" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/08f4edc3-7c59-4100-8f0c-318f4a7779d9" />
+<img width="1868" height="979" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/a9482986-d072-4df9-8960-7431f7d825e7" />
+<img width="1882" height="989" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/b974ec54-9e4e-4649-990e-d25197d843c2" />
+
 
 ### 🔐 Authentication
 ![Login](https://via.placeholder.com/800x400.png?text=Login+Page)
@@ -61,18 +64,35 @@ MODEX/
 ---
 
 ## 📦 Installation
-```bash
+
+     ```bash
 # Clone the repository
-git clone https://github.com/dgcmaduranga/MODEX.git
+
+       git clone https://github.com/dgcmaduranga/MODEX.git
 
 # Navigate into the project folder
-cd MODEX
+
+       cd MODEX
 
 # Install dependencies
-npm install
 
-# Start the development server
-npm start
+       npm install
+
+# Start the development server     
+
+       npm start
+
+📍 Deployment
+This project is hosted on Firebase Hosting:
+ 
+ 🔗 Live Demo: 
+                 
+                https://handy-station-454411-s3.web.app
+
+👨‍💻 Author
+Charith Maduranga
+
+     🔗 GitHub | LinkedIn
 
 
 
@@ -80,6 +100,10 @@ npm start
 
 
 
+
+
+
+       
 
 
 
