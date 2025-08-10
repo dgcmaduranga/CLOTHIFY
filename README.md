@@ -19,19 +19,21 @@ It features a seamless shopping experience, authentication, cart management, and
 ---
 
 ## 📂 Code Structure
-MODEX/
-│── public/ # Static files (index.html, images, icons)
-│── src/
-│ ├── assets/ # Images, icons, and media files
-│ ├── components/ # Reusable UI components (Navbar, Footer, etc.)
-│ ├── contexts/ # Auth & Cart context providers
-│ ├── data/ # Product data & mock JSON files
-│ ├── pages/ # Main pages (Home, Shop, Product, Cart, Login, Register)
-│ ├── styles/ # CSS & custom stylesheets
-│ ├── App.js # Root app component
-│ ├── index.js # Entry point
-│── package.json # Project dependencies & scripts
-│── README.md # Project documentation
+
+
+              MODEX/
+             │── public/ # Static files (index.html, images, icons)
+             │── src/
+             │ ├── assets/ # Images, icons, and media files
+             │ ├── components/ # Reusable UI components (Navbar, Footer, etc.)
+             │ ├── contexts/ # Auth & Cart context providers
+             │ ├── data/ # Product data & mock JSON files
+             │ ├── pages/ # Main pages (Home, Shop, Product, Cart, Login, Register)
+             │ ├── styles/ # CSS & custom stylesheets
+             │ ├── App.js # Root app component
+             │ ├── index.js # Entry point
+             │── package.json # Project dependencies & scripts
+             │── README.md # Project documentation
 
 
 ---
