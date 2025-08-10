@@ -1,6 +1,6 @@
 # 🛍️ MODEX – Modern Online Clothing Store
 
-![MODEX Banner](https://via.placeholder.com/1200x400.png?text=MODEX+-+Modern+Fashion+E-Commerce)
+
 
 ## ✨ Overview
 MODEX is a **modern, stylish, and fully responsive online clothing store** built with **React.js, Firebase, and Bootstrap**.  
@@ -48,7 +48,8 @@ MODEX/
 <img width="1881" height="981" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/165874ee-669e-49c0-b61a-45556cd31849" />
 
 ### 🛒 Shopping Cart
-![Cart](https://via.placeholder.com/800x400.png?text=Shopping+Cart)
+
+<img width="1874" height="994" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/83f1c1eb-0fcf-46d2-bff1-caa6725c3fd5" />
 
 ---
 
